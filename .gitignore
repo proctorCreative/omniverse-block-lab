@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+*~
+
+# Omniverse / Kit generated data
+extscache/
+_build/
+_buildcache/
+repo-cache/
+pip3-envs/
+logs/
+cache/
+exts/proctor.block_lab/usd/tower_demo.usd

@@ -1,0 +1,22 @@
+[package]
+title = "Block Impact Lab"
+version = "0.1.0"
+description = "An open-source Omniverse rigid-body physics learning project."
+category = "Example"
+
+[dependencies]
+"omni.kit.pipapi" = {}
+
+[python.pipapi]
+requirements = [
+    "mido",
+    "python-rtmidi"
+]
+modules = [
+    "mido",
+    "rtmidi"
+]
+use_online_index = true
+
+[[python.module]]
+name = "proctor.block_lab"
