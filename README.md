@@ -1,15 +1,15 @@
 # Block Impact Lab
 
-Block Impact Lab is an open-source NVIDIA Omniverse Kit extension for experimenting with rigid-body physics, procedural masonry, projectile impacts, keyboard control, and MIDI-controlled cannon aiming.
+Block Impact Lab is an open-source NVIDIA Omniverse Kit extension for experimenting with rigid-body physics, procedural masonry, projectile impacts, keyboard control, and MIDI-controlled cannon aiming. Additional information is included in the source file comments.
 
 ## Features
 
-- Procedurally generated circular masonry tower
 - PhysX rigid-body simulation
+- Korg SQ-1 MIDI controller input
+- Keyboard input
 - Cannon with azimuth and altitude control
-- Keyboard aiming
-- Korg SQ-1 MIDI aiming
-- Multiple self-cleaning projectiles
+- Procedurally generated circular tower
+- Self-deleting projectiles
 
 ## Dependencies
 
